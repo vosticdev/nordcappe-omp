@@ -1,0 +1,54 @@
+
+#define     c_server        "{8dc9f3}"
+#define     c_server2       "{c092de}"
+#define     c_red           "{ff1100}"
+#define     c_darkred       "{FF0000}"
+#define     c_lred          "{FF0055}"
+#define     c_blue          "{0099cc}"
+#define     c_darkblue      "{0100F8}" 
+#define     c_white         "{ffffff}"
+#define     c_yellow        "{f2ff00}"
+#define     c_green         "{009933}"
+#define     c_olivegreen    "{808000}"
+#define     c_pink          "{ff00bb}"
+#define     c_ltblue        "{00f2ff}"
+#define     c_orange        "{ffa200}"
+#define     c_grey          "{787878}"
+#define     c_purple        "{C2A2DA}"
+#define     c_forestgreen   "{4A6741}"
+#define 	c_ltorange		"{EB8C6C}"
+#define     c_black         "{000000}"
+
+#define     c_info          "{737BE1}"
+#define     c_usage         "{DAA520}"
+#define     c_error         "{FF1100}"
+#define     c_admin         "{2d97fa}"
+#define     c_job           "{cc9704}"
+#define     c_faction       "{68b0c4}"
+
+#define     x_server        0x8DC9F3FF
+#define     x_server2       0xC092DEFF
+#define     x_red           0xFF1100AA
+#define     x_darkred       0xFF0000AA 
+#define     x_blue          0x0099CCAA 
+#define     x_darkblue      0x0100F8AA
+#define     x_white         0xffffffAA
+#define     x_yellow        0xf2ff00AA
+#define     x_green         0x009933AA
+#define     x_olivegreen    0x808000AA
+#define     x_pink          0xff00bbAA
+#define     x_ltblue        0x00f2ffAA
+#define     x_orange        0xffa200AA
+#define     x_grey          0x787878AA
+#define     x_purple        0xC2A2DAAA
+#define     x_forestgreen   0x4A6741AA
+#define 	x_ltorange	    0xEB8C6CFF
+#define     x_black         0x000000AA
+
+#define     x_info          0x737BE1AA
+#define     x_usage         0xDAA520AA
+#define     x_error         0xFF1100AA
+#define     x_admin         0x2d97faAA
+#define     x_job           0xcc9704AA
+#define     x_faction       0x68b0c4FF
+#define     x_ltred         0xFF0055FF

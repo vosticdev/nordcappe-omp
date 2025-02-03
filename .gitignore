@@ -1,0 +1,8 @@
+
+/logs
+log.txt
+mysql.ini
+config.json
+.vscode/extensions.json
+.vscode/settings.json
+/gamemodes/*.amx

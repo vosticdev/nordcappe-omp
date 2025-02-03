@@ -1,0 +1,35 @@
+Logger:
+  main_log:
+    Append: false # deletes the plugin log file on server startup
+    LogLevel:
+      - Fatal
+      - Error
+      - Warning
+      - Info
+      - Debug
+  nex_ac:
+    Append: false # deletes the plugin log file on server startup
+    LogLevel:
+      - Fatal
+      - Error
+      - Warning
+      - Info
+      - Debug
+  system:
+    Append: false # deletes the plugin log file on server startup
+    LogLevel: All
+  samp-server: # see "Server console redirection" down below
+    LogLevel: All
+LogLevel:
+  Fatal:
+    PrintToConsole: true
+  Error:
+    PrintToConsole: true
+  Warning:
+    PrintToConsole: true
+  Info:
+    PrintToConsole: true
+  Debug:
+    PrintToConsole: true
+EnableColors: true
+LogTimeFormat: '%F %H:%M:%S'

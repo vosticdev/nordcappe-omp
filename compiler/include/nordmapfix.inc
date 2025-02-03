@@ -22,7 +22,7 @@ Object_IsMedium( id ) {
 }
 
 
-Maryland_CreateDynamicObject( objid, Float:x, Float:y, Float:z, Float:rx, Float:ry, Float:rz, worldid = -1, interiorid = -1, playerid = -1, Float:streamdistance = 300.0, Float:drawdistance = 300.0, areaid = -1, priority = 0 )
+Nordcappe_CreateDynamicObject( objid, Float:x, Float:y, Float:z, Float:rx, Float:ry, Float:rz, worldid = -1, interiorid = -1, playerid = -1, Float:streamdistance = 300.0, Float:drawdistance = 300.0, areaid = -1, priority = 0 )
 {
 	if( Object_IsLarge( objid ) ) {
 		streamdistance = 800.0;

@@ -9,7 +9,7 @@
  Developer: vostic
  Project start: 03/02/2025      
 
-    File: db-config.pwn                                                         
+    File: basic_cmd.pwn                                                        
                                                                                          
 */
 

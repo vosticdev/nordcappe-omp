@@ -138,3 +138,8 @@ public e_COMMAND_ERRORS:OnPlayerCommandReceived(playerid, cmdtext[], e_COMMAND_E
 #include "src/reglog/reglog.pwn"
 #include "src/commands/basic_cmd.pwn"
 #include "src/player/player_name.pwn"
+
+#include "src/stocks/veh.pwn"
+#include "src/vehicle/basics.pwn"
+
+#include "src/staff/staff.pwn"

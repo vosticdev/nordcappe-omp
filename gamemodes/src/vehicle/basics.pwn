@@ -179,7 +179,7 @@ Dialog:DIALOG_VEHICLE_PANEL(playerid, response, listitem, string:inputtext[])
                     Engine: %s\n\
                     Lights: %s\n\
                     Lock: %s",
-                    c_green,
+                    c_white,
                     VehicleStates[vehicleid][v_Engine] ? (""c_green"ON") : (""c_red"OFF"),
                     VehicleStates[vehicleid][v_Lights] ? (""c_green"ON") : (""c_red"OFF"),
                     VehicleStates[vehicleid][v_Locked] ? (""c_green"LOCKED") : (""c_red"UNLOCKED")
@@ -190,11 +190,12 @@ Dialog:DIALOG_VEHICLE_PANEL(playerid, response, listitem, string:inputtext[])
                 format(status, sizeof(status),
                     "Vehicle Status\n\n\
                     Type: %sBicycle",
-                    c_green
+                    c_white
                 );
             }
             else
             {
+
                 format(status, sizeof(status),
                     "Vehicle Status\n\n\
                     Engine: %s\n\

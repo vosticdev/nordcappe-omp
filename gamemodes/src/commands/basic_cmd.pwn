@@ -64,6 +64,7 @@ Dialog:DIALOG_HELP(playerid, response, listitem, string:inputtext[])
                 "Character Commands",
                 "/nameon - Enable nametags\n\
                 /nameoff - Disable nametags\n\
+                /inventory - Open inventory\n\
                 /me [action] - Roleplay action\n\
                 /do [description] - Describe environment\n\
                 /b [ooc chat] - Out of character chat",
@@ -79,7 +80,8 @@ Dialog:DIALOG_HELP(playerid, response, listitem, string:inputtext[])
                 - Initial release\n\
                 - Added basic roleplay commands\n\
                 - Added San Fierro spawn points\n\
-                - Added accent system\n\n\
+                - Added accent system\n\
+                - Added inventory system\n\n\
                 Update 1.0.1 (Coming Soon):\n\
                 - New features planned\n\
                 - Bug fixes incoming",
